@@ -34,7 +34,6 @@ Using the ‘concurrently’ module, React dev server and Express server (throug
 
 
 ### Contributing
----
 If something is unclear, wrong, or needs to be refactored, please let me know. Pull requests are always welcome. Please open an issue before submitting a pull request. 
 
 ## License
