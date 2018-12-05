@@ -16,7 +16,9 @@ const home = require('./routes/home');
 // Use routes
 app.use('/', home);
 
-// Listen to port 3000 for connection
-app.listen(5000 , function() {
-    console.log('Server running on port 5000');
+// Listen to port 5000 for connection
+const port = 5000;
+
+app.listen(port , function() {
+    console.log('Server running on port ${port}');
 });
