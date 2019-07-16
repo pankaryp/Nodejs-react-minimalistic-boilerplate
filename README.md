@@ -10,7 +10,7 @@
 
 ### Getting Started
 
-```
+```sh
 # Clone the repository
 git clone https://github.com/pankaryp/nodejs-react-minimalistic-boilerplate.git
 cd nodejs-react-minimalistic-boilerplate
