@@ -1,7 +1,7 @@
 {
   "name": "nodejs-react-minimalistic-boilerplate",
   "version": "1.0.0",
-  "description": "A minimal Boilerplate for Node.js and React (without db)",
+  "description": "Minimal nodejs-react boilerplate",
   "main": "server.js",
   "scripts": {
     "client-install": "cd client && npm install",

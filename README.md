@@ -1,8 +1,8 @@
-# Nodejs-react-minimalistic-boilerplate
+# nodejs-react-minimalistic-boilerplate
 
-![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+![project boilerplate](https://img.shields.io/badge/project-boilerplate-blue.svg?style=flat-square)
 
-A minimal Boilerplate for Node.js and React (without database)
+> Minimal nodejs-react boilerplate
 
 ### Prerequisites
 
@@ -11,11 +11,9 @@ A minimal Boilerplate for Node.js and React (without database)
 ### Getting Started
 
 ```
-# Go to your project directory
-cd my-project
-
 # Clone the repository
-git clone https://github.com/pankaryp/Nodejs-react-minimalistic-boilerplate.git
+git clone https://github.com/pankaryp/nodejs-react-minimalistic-boilerplate.git
+cd nodejs-react-minimalistic-boilerplate
 
 # Install server dependencies
 npm install
